@@ -2,16 +2,11 @@
 
 ## *Doctor Appointment Management System using Django*
 
-[Appoint Master](https://github.com/Lewismwaz/appoint_master)**©** 2024, All Rights Reserved 
-
-<mark>**SEE FULL SYSTEM IMPLEMENTATION VIDEO**</mark>👉 [here](https://drive.google.com/file/d/1ymAbw7n1UYogrRrc1ILahWsgL54yYRdW/view?usp=drivesdk).
-
-
 # System Documentation  
 
 ### OVERVIEW
 
-➢ **Electronic Appoint Master** is a Doctor-Patient Appointments Management System. This system was originally meant for Kenyatta University Health Centre (Organization) - [KUHC](https://www.ku.ac.ke/healthunit/).  
+➢ **Electronic Appoint Master** is a Doctor-Patient Appointments Management System. This system was originally meant for Kenyatta University Health Centre (Organization)
 
 ➢ Appoint Master steps in to make things easier for KUHC patients to book an appointment with their doctors. It tries to automate the process of booking doctor appointments from the old-school manual system.
 
@@ -23,7 +18,7 @@
 The system is restricted to:  
 ➢ **Students**,  
 ➢ **Staff**, and  
-➢ **Doctors** of Kenyatta University - [KU](https://www.ku.ac.ke/). 
+➢ **Doctors** of Kenyatta University - [KU]
 
 > [!NOTE]   
 >  Any Validation rules used in the system are in compliance with the KU system, such as user IDs. The **Admin** is also a user of the system; probably a member of the staff (but not a staff patient!).  
@@ -84,10 +79,6 @@ The system is restricted to:
 #### 10. Data Analytics
 
 ➢ The system can show real data analytics (statistically) of appointments [Booked, Scheduled, Failed, Canceled, Completed, Closed], Payments [Mpesa transactions] and Active/Registered Patients [Student Cover, MediCare Cover-Staff]. See the screenshot below (Admin, Patient, & Doctor Dashboard).  
-
-![analytics-admin](https://i.imgur.com/j5jauE0.png)
-![patient-dashboard-analytics](https://i.imgur.com/TseCEaM.png)
-![doctor-dashboard-analytics](https://i.imgur.com/KFA7Viv.png)
 
 #### 11. Flexible Patient ID registration
 
